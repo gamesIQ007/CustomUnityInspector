@@ -1,0 +1,2 @@
+# CustomUnityInspector
+Учебный проект SkillFactory
